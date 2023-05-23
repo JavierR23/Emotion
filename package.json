@@ -11,5 +11,10 @@
   "scripts": {
     "start": "node index.js",
     "test": "node test.js"
-  }
+  },
+  "devDependencies": {
+    "request": "^2.81.0",
+    "tape": "^4.7.0"
+  },
+  "license": "MIT"
 }
